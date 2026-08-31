@@ -1,0 +1,40 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.idea/
+.vscode/
+*.iml
+
+# GitHub workflows and metadata
+.github/
+
+# Generated files
+pubspec.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*~
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+
+# Test outputs
+test_output/
+
+# Editor backups
+*~
+*.swp
