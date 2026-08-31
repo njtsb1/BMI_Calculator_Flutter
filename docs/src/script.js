@@ -18,7 +18,7 @@
         severe: 'Severe Thinness',
         moderate: 'Moderate Thinness',
         mild: 'Mild Thinness',
-        normal: 'Normal',
+        normal: 'Healthy',
         overweight: 'Overweight',
         obese1: 'Obesity Class I',
         obese2: 'Obesity Class II (Severe)',
