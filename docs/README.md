@@ -3,6 +3,7 @@
 Project developed at Santander Bootcamp 2023 - Mobile with Flutter, under the guidance of specialist [Danilo Perez](https://github.com/perez-danilo "Danilo Perez").
 
 In this challenge, you will create a simple calculator to calculate a person's BMI (Body Mass Index) using the **Dart** and **Flutter** programming languages.
+
 **Challenge Checklist**:
 
 - Create a Person class (Name / Weight / Height)
