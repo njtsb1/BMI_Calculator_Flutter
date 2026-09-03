@@ -28,7 +28,7 @@ In this challenge, you will create a simple calculator to calculate a person's B
 - **HTML**: semantic markup and UI.
 - **CSS**: theme variables, responsive layout, accessible styles.
 - **JavaScript**: translations, theme & language persistence, BMI logic and validation.
-- **AI (Assertive)**:AI-assisted input validation and contextual suggestions.
+- **AI (Assistive)**:AI-assisted input validation and contextual suggestions.
 
 ## How to run
 
